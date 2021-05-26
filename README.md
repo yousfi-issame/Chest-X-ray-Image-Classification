@@ -6,5 +6,7 @@ Construction of CNN model for detection of pneumonia in x-rays from scratch
 write this in CMD
     streamlit run Classifia.py
  Or
-  go to ( https://share.streamlit.io/yousfi-issame/memoire/main/Classifia.py ).
+ App Deployed on Streamlit Share:
+[Link](https://share.streamlit.io/yousfi-issame/memoire/main/Classifia.py)
+ 
 
