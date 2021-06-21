@@ -7,6 +7,6 @@ write this in CMD
     streamlit run Classifia.py
  Or
  App Deployed on Streamlit Share:
-[Link](https://share.streamlit.io/yousfi-issame/memoire/main/Classifia.py)
+[Link](https://share.streamlit.io/yousfi-issame/memoire/License/Classifia.py)
  
 
